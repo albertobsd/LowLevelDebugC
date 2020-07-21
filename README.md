@@ -52,10 +52,11 @@ compile and execute
 output:
 
 ```
-Current memory Allocated: 1048576
-Current total chunks used : 1
-
-```
+Current memory Allocated: 2097152 bytes
+Current total chunks used : 2
+Pointer not found 0x7f8f5a4c0010
+May be you missing change some malloc, calloc realloc?
+Or pointer previously release```
 
 
 
