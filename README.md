@@ -56,7 +56,8 @@ Current memory Allocated: 2097152 bytes
 Current total chunks used : 2
 Pointer not found 0x7f8f5a4c0010
 May be you missing change some malloc, calloc realloc?
-Or pointer previously release```
+Or pointer previously release
+```
 
 
 
